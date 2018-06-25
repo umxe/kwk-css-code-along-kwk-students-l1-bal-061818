@@ -1,1 +1,7 @@
 /* add CSS class and element and selectors here */
+body{
+  background-color: lightBlue;
+}
+#title-section {font-size:200%}
+
+.info-section{font-style: italic;}
